@@ -2,8 +2,10 @@
 #EXTINF:-1,✯✮✮✮✮ PORTUGAL ✯✮✮✮✮
 https://i.imgur.com/lpdPwI0.mp4
 #EXTINF:-1,PT: RTP 1 LOW
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62052
+http://162.212.178.69:41042/bysid/608
 #EXTINF:-1,PT: RTP 1
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62052
+#EXTINF:-1,PT: RTP 1 HD
 http://aflaxtv.xyz:8080/stadnik/6a627b52a9/1404
 #EXTINF:-1,PT: RTP 2 LOW
 http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/62053
@@ -20,8 +22,10 @@ http://aflaxtv.xyz:8080/stadnik/6a627b52a9/1410
 #EXTINF:-1,PT: TVI HD
 http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/36972
 #EXTINF:-1,PT: RTP 3 LOW
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/62055
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:-1,PT: RTP 3
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/62055
+#EXTINF:-1,PT: RTP 3 HD
 http://aflaxtv.xyz:8080/stadnik/6a627b52a9/1418
 #EXTINF:-1,PT: SIC Noticias 
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62066
@@ -29,7 +33,7 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/62066
 http://aflaxtv.xyz:8080/stadnik/6a627b52a9/1416
 #EXTINF:-1,PT: CMTV LOW
 http://1tv41.icu:8080/4qUDXt/560526/78441
-#EXTINF:-1,PT: CMTV
+#EXTINF:-1,PT: CMTV 
 http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/36975
 #EXTINF:-1,PT: CMTV HD
 http://aflaxtv.xyz:8080/stadnik/6a627b52a9/1414
