@@ -19,6 +19,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 http://aflaxtv.xyz:8080/stadnik/6a627b52a9/1408
 #EXTINF:-1,PT: SIC HD
 http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/36971
+#EXTINF:-1,PT: TVI LOW
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjMgNzowOjQ3IFBNJmhhc2hfdmFsdWU9S1V3T2FKbWswVkYrSTNOQ0Z0L2dSUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTlmYjRlODNlLWMxN2EtNGNkNC1iOWNmLTM2MTM0MTkwODQ5ZA==/
 #EXTINF:-1,PT: TVI
 http://aflaxtv.xyz:8080/stadnik/6a627b52a9/1410
 #EXTINF:-1,PT: TVI HD
