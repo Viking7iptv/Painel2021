@@ -2,7 +2,7 @@
 #EXTINF:-1,✯✮✮✮✮ PORTUGAL ✯✮✮✮✮
 https://i.imgur.com/lpdPwI0.mp4
 #EXTINF:-1,PT: RTP 1 LOW
-http://162.212.178.69:41042/bysid/608
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1,PT: RTP 1
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62052
 #EXTINF:-1,PT: RTP 1 HD
