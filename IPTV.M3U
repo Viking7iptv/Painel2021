@@ -33,8 +33,8 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/62055
 #EXTINF:-1,PT: RTP 3 HD
 http://aflaxtv.xyz:8080/17032/cebaebad/1418
-#EXTINF:-1,PT: SIC Noticias 
-http://likea8bitboss.xyz:80/6lives838/4708659213/780326
+#EXTINF:-1,PT: SIC Noticias
+https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1,PT: SIC Noticias HD
 http://2.revportal.eu:80/mag00:1A:79:5C:46:B9/AIZEa36s0h/106215
 #EXTINF:-1,PT: CMTV LOW
